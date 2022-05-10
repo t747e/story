@@ -1,6 +1,8 @@
 # story
 stories instagram wtacher
 Follow These Steps for Installation
+install termux from link
+https://www.mediafire.com/download/nppn356da4xal4x
 
 $pkg install php
 
